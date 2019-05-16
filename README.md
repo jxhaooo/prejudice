@@ -1,2 +1,4 @@
 # prejudice
 ['predʒʊdɪs]
+
+Hello, world.
